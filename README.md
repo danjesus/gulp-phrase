@@ -1,6 +1,8 @@
 # gulp-phrase
 
-A simple gulp plugin to use phraseapp, this lib donwload all internationalization and save in specif path.
+A simple gulp plugin to use phraseapp, this lib donwload all internationalization and save in specifc path.
 
-# How to use
+# Install
+
+# Usage
 
