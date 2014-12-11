@@ -1,0 +1,14 @@
+{
+  "name": "gulp-phrase",
+  "version": "0.0.1",
+  "description": "A simple gulp plugin to use phraseapp api",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Dan Jesus <danper.jesus@gmail.com>",
+  "license": "MIT"
+}
