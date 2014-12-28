@@ -4,7 +4,6 @@
 var phrase = require('../');
 var assert = require('assert');
 var fs = require('fs');
-var _ = require('lodash');
 
 describe('gulp phrase test suite', function() {
 
