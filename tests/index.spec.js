@@ -1,3 +1,4 @@
+/* global describe, it */
 'use strict';
 
 var phrase = require('../');
@@ -12,7 +13,7 @@ describe('gulp phrase test suite', function() {
 
     it('should download all phraseapp files', function(cb) {
 
-        var results = phrase({
+        phrase({
             apiToken: '', //Need a phraseapp token
             tag: 'json',
             dir: 'locales/'
