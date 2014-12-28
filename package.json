@@ -1,0 +1,22 @@
+{
+  "name": "gulp-phrase",
+  "version": "0.0.1",
+  "description": "A simple gulp plugin to download phraseapp translations in json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Dan Jesus <danper.jesus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "async": "^0.9.0",
+    "fs": "0.0.2",
+    "gulp-util": "^3.0.1",
+    "lodash": "^2.4.1",
+    "request": "^2.51.0"
+  }
+}
