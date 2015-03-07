@@ -7,13 +7,13 @@ A simple gulp plugin to use phraseapp, this lib donwload all internationalizatio
 
 # Install
 
-```
-npm install gulp-phrase
+```bash
+npm install gulp-phrase --save-dev
 ```
 
 # Usage
 
-```
+```javascript
 var phrase = require('gulp-phrase');
 gulp.task('gulp-phrase', function() {
    phrase({
@@ -21,9 +21,8 @@ gulp.task('gulp-phrase', function() {
         dir: 'PAHT TO SAVE FILES',
         tag: 'OPTIONAL'
    }, function(files) {
-    // array whith filenames
-
+    // Array whith filenames
+    // Now you can iterate in array for change filenames
    });
 });
-
 ````
