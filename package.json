@@ -1,6 +1,6 @@
 {
   "name": "gulp-phrase",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple gulp plugin to download phraseapp translations in json format",
   "main": "index.js",
   "scripts": {
